@@ -14,4 +14,4 @@ data:
   # Enables application status badge feature
   statusbadge.enabled: "true"
   context: |
-    argocdUrl: "https://expert-orbit-jrj49p7r9v5h5ww5-30100.GITHUB_CODESPACES_PORT_FORWARDING_DOMAIN_PLACEHOLDER"  
+    argocdUrl: "https://expert-orbit-jrj49p7r9v5h5ww5-30100.app.github.dev"  
